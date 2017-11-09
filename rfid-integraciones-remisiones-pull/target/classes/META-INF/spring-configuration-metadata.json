@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.mh.rfid.integraciones.remisiones.pull.configuration.SourceDatabaseConfiguration",
+      "name": "source.datasource",
+      "sourceMethod": "public javax.sql.DataSource dataSource() ",
+      "type": "javax.sql.DataSource"
+    },
+    {
+      "sourceType": "com.mh.rfid.integraciones.remisiones.pull.configuration.DatabaseConfiguration",
+      "name": "spring.datasource",
+      "sourceMethod": "public javax.sql.DataSource dataSource() ",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
